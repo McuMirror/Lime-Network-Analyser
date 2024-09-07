@@ -1,4 +1,4 @@
-# It is not giving correct readings, I must have introduced a bug.  Investigating.....
+# Re-writing now that I know more Python
 
 # Lime Network Analyser
  
