@@ -1,4 +1,4 @@
-Re-writing now that I know more Python
+Re-writing now that I (think I) know more Python
 
 Lime Network Analyser
  
